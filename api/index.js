@@ -7,15 +7,15 @@ const nftData = {
     description:
       "Highly Passionate Ant that enjoys being carried around by his friends.",
     external_url: "https://polygonscan.com/",
-    image: "https://ibb.co/3MDNPBz",
+    image: "ipfs://bafkreicxne3z6ryszbdhlauv3sypjhf44zpxnauspx2tryqn3uo2ahusoe",
     name: "Ant Master",
   },
   1: {
     description:
       "Smart and very friendly Ant that do his job well and is always ready to help.",
     external_url: "https://polygonscan.com/",
-    image: "https://ibb.co/gPVXGTy",
-    name: "Clerk Ant",
+    image: "ipfs://bafkreihl7jte6pxehlzoj767x3uvzriekdlflm4lh4x2ibachumkhmzleu",
+    name: "Clerk Ant Brok",
   },
 };
 
